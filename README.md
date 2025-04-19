@@ -1,4 +1,4 @@
-#¡Hola, soy Andrés Piuzzi!👋😃<br>
+# ¡Hola! Soy Andrés 👋😃<br>
 # 💫 Sobre Mi:
 Soy un desarrollador autodidacta apasionado por la programación. <br>Aunque actualmente trabajo en un campo diferente, he completado <br>varios cursos en tecnologías front-end y back-end 🚀. <br>Ahora estoy buscando hacer la transición a una carrera en desarrollo <br>de software, donde pueda aplicar mis habilidades y seguir creciendo <br>como profesional.
 
